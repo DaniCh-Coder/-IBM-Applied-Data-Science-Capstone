@@ -14,6 +14,7 @@ Utilize data science methodologies to define and formulate a real-world business
 Utilize your data analysis tools to load a dataset, clean it, and find out interesting insights from it
 
 # Labs:
-1.jupyter-labs-spacex-data-collection-api
-2.jupyter-labs-webscraping
+1.jupyter-labs-spacex-data-collection-api. 
+2.jupyter-labs-webscraping. 
+3.jupyter-labs-spacex-Data wrangling. 
 
