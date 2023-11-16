@@ -17,4 +17,8 @@ Utilize your data analysis tools to load a dataset, clean it, and find out inter
 1a.jupyter-labs-spacex-data-collection-api. 
 1b.jupyter-labs-webscraping. 
 2.jupyter-labs-spacex-Data wrangling. 
+3.jupyter-labs-eda-sql-coursera_sqllite. 
+4.jupyter-labs-eda-dataviz.ipynb.jupyterlite
+5.lab_jupyter_launch_site_location.jupyterlite. 
+6.
 
