@@ -15,3 +15,5 @@ Utilize your data analysis tools to load a dataset, clean it, and find out inter
 
 # Labs:
 1.jupyter-labs-spacex-data-collection-api
+2.jupyter-labs-webscraping
+
